@@ -1,10 +1,10 @@
 # PHP Mail Client using IMAP Class
 
-A simple program to simulate IMAP class. This program is using [PHP Language](http://php.net). See the [live demo here](http://ptiikmail-inbox.herokuapp.com).
+A simple program to simulate IMAP class. This program is using [PHP Language](http://php.net). See the [live demo here](http://ptiikmail-inbox.herokuapp.com) or if its error, you can try the offline on the localhost with source code in this repo.
 
 ## Email Provider Change
 
-To change email provider, please change teh line in `process.php`, change `$_POST['provider']` with your chosen provider.
+To change email provider, please change the line in `process.php`, change `$_POST['provider']` with your chosen provider.
 
 ##Screenshot
 
