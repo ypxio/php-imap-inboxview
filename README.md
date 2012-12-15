@@ -14,7 +14,7 @@ To change email provider, please change the line in `process.php`, change `$_POS
 
 ###inbox view
 
-![inbox](http://f.cl.ly/items/3j2f1U1M162u080H2T2b/imap1.png)
+<!-- ![inbox](http://f.cl.ly/items/3j2f1U1M162u080H2T2b/imap1.png) -->
 
 ## About
 
